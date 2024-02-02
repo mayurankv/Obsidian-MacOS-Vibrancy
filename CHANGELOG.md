@@ -20,6 +20,8 @@ See this project's [releases](/../../../releases).
 
 ## [Unreleased]
 
+## [0.1.4] - 2024-02-02
+
 ### Changed
 
 - Update dependencies
@@ -54,7 +56,8 @@ See this project's [releases](/../../../releases).
 
 - Initial release.
 
-[Unreleased]: /../../compare/0.1.3...HEAD
+[Unreleased]: /../../compare/0.1.4...HEAD
+[0.1.4]: /../../compare/0.1.3...0.1.4
 [0.1.3]: /../../compare/0.1.2...0.1.3
 [0.1.2]: /../../compare/0.1.1...0.1.2
 [0.1.1]: /../../compare/0.1.0...0.1.1
