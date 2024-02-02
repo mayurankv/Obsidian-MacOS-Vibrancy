@@ -25,6 +25,7 @@ See this project's [releases](/../../../releases).
 ### Changed
 
 - Remove irrelevant logs
+- Fix typing
 
 ## [0.1.0] - 2024-02-02
 
