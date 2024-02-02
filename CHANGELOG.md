@@ -20,6 +20,10 @@ See this project's [releases](/../../../releases).
 
 ## [Unreleased]
 
+### Changed
+
+- Update dependencies
+
 ## [0.1.1] - 2024-02-02
 
 ### Changed
