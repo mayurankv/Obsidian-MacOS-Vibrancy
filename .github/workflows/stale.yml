@@ -7,13 +7,13 @@ jobs:
   stale:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/stale@v8
+      - uses: actions/stale@v9
         with:
-          stale-issue-message: 'This issue is stale because it has been open 60 days with no activity.'
-          stale-pr-message: 'This pull request is stale because it has been open 60 days with no activity.'
+          stale-issue-message: 'This issue is stale because it has been open 150 days with no activity.'
+          stale-pr-message: 'This pull request is stale because it has been open 150 days with no activity.'
           close-issue-message: 'This issue was closed because it has been stalled with no activity.'
           close-pr-message: 'This pull request was closed because it has been stalled with no activity.'
-          days-before-issue-stale: 60
-          days-before-pr-stale: 60
+          days-before-issue-stale: 150
+          days-before-pr-stale: 150
           days-before-issue-close: -1
           days-before-pr-close: -1
