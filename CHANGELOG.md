@@ -36,5 +36,4 @@ See this project's [releases](/../../../releases).
 
 - Initial release.
 
-[0.1.1]: /../../compare/0.1.0...0.1.1
 [0.1.0]: /../../compare/0.0.0...0.1.1
