@@ -23,6 +23,7 @@ See this project's [releases](/../../../releases).
 ### Changed
 
 - Update dependencies
+- Update releaser
 
 ## [0.1.3] - 2024-02-02
 
