@@ -1,0 +1,8 @@
+Problems:
+	Popout Windows:
+		☐ How to access on plugin load to iterate through all
+		☐ Setting `setVibrancy` doesn't appear to work
+			☐ https://github.com/electron/electron/issues/30993
+
+	To Develop:
+		☐ Plugin should set opacities for different sections based on user settings
