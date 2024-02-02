@@ -1,6 +1,6 @@
 {
 	"name": "macos-vibrancy",
-	"version": "0.1.1",
+	"version": "0.1.0",
 	"description": "This is a plugin for Obsidian (https://obsidian.md) which adds vibrancy for MacOS.",
 	"main": "main.js",
 	"scripts": {
