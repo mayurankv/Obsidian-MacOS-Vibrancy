@@ -20,6 +20,8 @@ See this project's [releases](/../../../releases).
 
 ## [Unreleased]
 
+## [0.1.5] - 2024-02-02
+
 ## [0.1.4] - 2024-02-02
 
 ### Changed
