@@ -6,3 +6,9 @@ Problems:
 
 	To Develop:
 		☐ Plugin should set opacities for different sections based on user settings
+
+	Changing Focus Vibrancy Effecs:
+		☐ Waiting on upstream changes to set at runtime or default Obsidian setting
+			☐ https://github.com/electron/electron/issues/25513
+			☐ https://forum.obsidian.md/t/option-for-when-macos-vibrancy-is-active/76188
+		☐ // win.visualEffectState = "active";
