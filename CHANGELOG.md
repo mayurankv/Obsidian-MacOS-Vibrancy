@@ -20,6 +20,8 @@ See this project's [releases](/../../../releases).
 
 ## [Unreleased]
 
+## [0.1.1] - 2024-02-02
+
 ### Changed
 
 - Remove irrelevant logs
