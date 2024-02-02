@@ -20,10 +20,6 @@ See this project's [releases](/../../../releases).
 
 ## [Unreleased]
 
-## [0.1.5] - 2024-02-02
-
-## [0.1.4] - 2024-02-02
-
 ### Changed
 
 - Remove irrelevant logs
@@ -34,10 +30,9 @@ See this project's [releases](/../../../releases).
 ### Added
 
 - Initial basic functionality
-<!-- [0.1.0]: /../../releases/tag/0.1.0 -->
 
 ### Notes
 
 - Initial release.
 
-[0.1.0]: /../../compare/0.0.0...0.1.1
+[0.1.0]: /../../releases/tag/0.1.0
