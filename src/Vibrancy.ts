@@ -14,7 +14,7 @@ export function setVibrancy(plugin: VibrancyPlugin, windows: Array<Window> | und
 
 	if (typeof windows === "undefined")
 		windows = [window]; // Should be all windows
-	windows.forEach(window => window.electronWindow.setVibrancy(vibrancy));
+	windows.forEach(window => (window as any).electronWindow.setVibrancy(vibrancy));
 }
 
 function isTranslucent(plugin: VibrancyPlugin): boolean {
