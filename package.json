@@ -39,7 +39,7 @@
 		"stylelint-use-logical-spec": "^5.0.0",
 		"tslib": "2.6.2",
 		"typescript": "5.3.3",
-		"vitest": "^1.2.2"
+		"vitest": "^1.4.0"
 	},
 	"contributors": [
 		"Mayuran Visakan <mayuran.k.v@gmail.com>"
